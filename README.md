@@ -1,6 +1,6 @@
 # Simple Lane Detection with Classical Computer Vision
 
-This repository demonstrates a **classical computer-vision pipeline** for detecting lane lines on the road using **OpenCV**.
+This project demonstrates a **classical computer-vision pipeline** for detecting lane lines on the road using **OpenCV**.
 
 The goal is to build an **interpretable, lightweight lane detection system** that mimics one of the fundamental components used in **autonomous vehicles** and **advanced driver-assistance systems (ADAS)**: detecting lane boundaries from camera images.
 
