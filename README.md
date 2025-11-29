@@ -1,6 +1,6 @@
 # Simple Lane Detection with Classical Computer Vision
 
-This repository demonstrates a **classical computer-vision pipeline** for detecting lane lines on the road using **OpenCV and Python**.
+This repository demonstrates a **classical computer-vision pipeline** for detecting lane lines on the road using **OpenCV**.
 
 The goal is to build an **interpretable, lightweight lane detection system** that mimics one of the fundamental components used in **autonomous vehicles** and **advanced driver-assistance systems (ADAS)**: detecting lane boundaries from camera images.
 
@@ -24,7 +24,7 @@ By focusing on classic computer vision, this project helps illustrate how machin
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Build a **basic lane detection pipeline** using OpenCV.
 - Understand and implement each stage of the pipeline:
@@ -129,7 +129,7 @@ The pipeline produces a final output where:
 
 
 
-## 🧠 Future Improvements
+## Future Improvements
 
 Possible directions to extend this project:
 
@@ -147,9 +147,29 @@ Possible directions to extend this project:
 
 
 
-## 💻 Requirements
+##  Requirements
 
 - `numpy`
 - `opencv-python`
 - `matplotlib`
+
+  ## About Me
+I am a data science and machine learning practitioner with a strong passion for autonomous vehicles and computer vision, focused on building solutions that bridge research and real-world deployment.
+
+Feel free to connect with me:
+
+[Linkedlin](https://www.linkedin.com/in/patrickedosoma/)
+
+[Email](edosomapatrick41@gmail.com)
+
+## Contributions
+
+Contributions and suggestions are welcome! Please open an issue or submit a pull request.
+
+
+
+## Star This Repo
+
+If you found this project helpful, please star ⭐️ it to show support!
+
 
